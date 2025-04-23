@@ -1,0 +1,13 @@
+{
+  "name": "tiktok-shop-scraper",
+  "version": "1.0.0",
+  "description": "Scrape TikTok Shop category pages for trending products",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.42.0"
+  }
+}
